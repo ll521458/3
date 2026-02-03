@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="=(*]pG]-E]?KNONm@uqa" x="114" y="-129"></block><block type="pxt-on-start" id="t$=CFXUO0Tw=SB1-$edF" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="8Gy^*n,y;Y8lB%B):)`W"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # . . 
+        . # . . . 
+        . # # # .
+        `</field></block></statement></block><block type="device_button_event" id="h|ZV5*U{:tpDEmXOQ$ca" x="271" y="5"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="maqueenPlusV2_controlMotor" id="y5Py;|Y_ZxA5HJJ#+Rvl"><field name="emotor">maqueenPlusV2.MyEnumMotor.AllMotor</field><field name="edir">maqueenPlusV2.MyEnumDir.Forward</field><value name="speed"><shadow type="math_number_minmax" id="_.AsKSK0rk/.n.H!?-;."><mutation min="0" max="255" label="Speed" precision="0"></mutation><field name="SLIDER">25</field></shadow></value></block></statement></block></xml>
